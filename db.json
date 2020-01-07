@@ -1,9 +1,9 @@
 [
   {
-    id: 1,
-    title: '40 Hadis',
-    description: 'Short description',
-    publishedYear: '2019',
-    author: 'Imam an Navavi'
+    "id": 1,
+    "title": "40 Hadis",
+    "description": "Short description",
+    "publishedYear": 2019,
+    "author": "Imam an Navavi"
   }
 ]
